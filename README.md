@@ -273,9 +273,9 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Emmanuel Oyemike</summary>
     <ul>
-    <li><a href="https://www.github.com/">Github</a></li>
+    <li><a href="https://www.github.com/EmmanuelOyemike">Github</a></li>
     <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="@gmail.com">e-mail</a></li>
+    <li><a href="emmaoyemike@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
