@@ -3,7 +3,7 @@
 
 Unittest classes:
     TestPlace_instantiation
-    estPlace_save
+    TestPlace_save
     TestPlace_to_dict
 """
 import os
